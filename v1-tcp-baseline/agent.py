@@ -4,7 +4,7 @@ import sys
 import time
 
 # Configuration
-SERVER_IP = "192.168.1.3"  # CHANGE THIS to your Win10 Host-Only IP
+SERVER_IP = "192.168.1.3"  # CHANGE THIS to your  Host-Only IP
 SERVER_PORT = 9999
 XOR_KEY = 0x41             # Must match the server's key
 
